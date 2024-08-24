@@ -144,7 +144,7 @@ const Experience: React.FC = () => {
           variant="h6"
           sx={{ fontWeight: "bold", marginBottom: 2, color: "grey" }}
         >
-          Project Experience
+          Projects
         </Typography>
       </Divider>
 
